@@ -9,7 +9,8 @@ twitter_username: twitter_username
 github_username:  github_username
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+baseurl: /blog
 
 highlighter: pygments
 
