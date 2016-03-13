@@ -15,9 +15,9 @@ good Communication Skills, Presentation Skills, attitude towards leadership, aut
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:mabast.niga@yahoo.com">Email Me<i class="fa fa-envelope-square"></i></a><br/>
-	<a href="https://github.com/mabast1" target="_blank">Github<i class="fa fa-github-square"></i></a><br/>
-	<a href="https://www.linkedin.com/in/mabast-mahdi-23550a99" target="_blank">Linked In<i class="fa fa-linkedin-square"></i></a><br/>
+	<a href="mailto:mabast.niga@yahoo.com">Email Me<i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/mabast1" target="_blank">Github<i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/mabast-mahdi-23550a99" target="_blank">Linked In<i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/MabastNiga" target="_blank">Twitter<i class="fa fa-twitter-square"></i></a>
 </span>
 
