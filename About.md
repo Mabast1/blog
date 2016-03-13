@@ -7,20 +7,18 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+I'm a young, determined hard and smart working person. I believe in task based roles and complete ownership of work, an independent, dedicated, efficient person. 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
-
+These attributes are proved through the series of courses I have taken. 
+good Communication Skills, Presentation Skills, attitude towards leadership, authorization and delegation, conflict resolution and negotiation and a very good team worker.
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:mabast.niga@yahoo.com">Email Me<i class="fa fa-envelope-square"></i></a><br/>
+	<a href="https://github.com/mabast1" target="_blank">Github<i class="fa fa-github-square"></i></a><br/>
+	<a href="https://www.linkedin.com/in/mabast-mahdi-23550a99" target="_blank">Linked In<i class="fa fa-linkedin-square"></i></a><br/>
+	<a href="https://twitter.com/MabastNiga" target="_blank">Twitter<i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
