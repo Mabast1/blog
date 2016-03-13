@@ -22,6 +22,6 @@ good Communication Skills, Presentation Skills, attitude towards leadership, aut
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	Best way for reaching me is by emailing me.
 </div>
 
