@@ -6,7 +6,7 @@ description: Gibas Developing Bioinformatics Chapter 1
 ---
 
 #### Biology in the Computer Age 
-biology is defined as the study of living things. In the course of that study, biologists collect and interpret data. Now, at the beginning of the 21st century, we use sophisticated laboratory technology that allows us to collect data faster than we can interpret it.
+Biology is defined as the study of living things. In the course of that study, biologists collect and interpret data. Now, at the beginning of the 21st century, we use sophisticated laboratory technology that allows us to collect data faster than we can interpret it.
 
 *Bioinformatics* is the science of using information to understand biology,Unfortunately, with all the hype about mapping the human genome, bioinformatics has achieved buzzword status; the term is being used in a number of ways, depending on who is using it. Strictly speaking, bioinformatics is a subset of the larger field of computational biology , the application of quantitative analytical techniques in modeling biological systems.
 
@@ -27,6 +27,6 @@ But these days, a biologist can find dozens of sequence matches in seconds using
 The Figure below shows a standard form for submitting data to NCBI for a BLAST search:
 
 <div>
-	<img class="col two" src="/img/13.png">
+	<img src="/img/13.png">
 </div>
  
