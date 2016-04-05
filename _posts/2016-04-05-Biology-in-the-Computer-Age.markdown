@@ -38,4 +38,5 @@ Bioinformatics is first and foremost a component of the biological sciences. The
 
 *source: Gibas Developing Bioinformatics book 2001 Chapter 1.*
 
+View the post on [My Linkedin](https://www.linkedin.com/pulse/biology-computer-age-mabast-ahmad?trk=prof-post)
  
