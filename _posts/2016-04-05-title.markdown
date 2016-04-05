@@ -6,6 +6,8 @@ description: Gibas Developing Bioinformatics Chapter 1
 Published By: Mabast M. Ahmad 
 ---
 
+Published By [Mabast M. Ahmad](https://www.linkedin.com/in/mabast)
+
 #### Biology in the Computer Age 
 Biology is defined as the study of living things. In the course of that study, biologists collect and interpret data. Now, at the beginning of the 21st century, we use sophisticated laboratory technology that allows us to collect data faster than we can interpret it.
 
