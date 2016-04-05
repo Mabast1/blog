@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The eye of the fly (Bioinformatics)
+title:  The Eye of the Fly (Bioinformatics)
 date:   2016-04-05 10:27:16
 description: Introduction to Bioinformatics 
 ---
