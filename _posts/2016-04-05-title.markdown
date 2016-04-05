@@ -27,6 +27,6 @@ But these days, a biologist can find dozens of sequence matches in seconds using
 The Figure below shows a standard form for submitting data to NCBI for a BLAST search:
 
 <div>
-	<img src="/img/13.png">
+	<img src="../img/13.png">
 </div>
  
