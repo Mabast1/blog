@@ -2,7 +2,7 @@
 title: My Blog
 email: mabast.m.ahmad@ieee.org
 description: > # this means to ignore newlines until "baseurl:"
-  This blog is for my research and studying in AI field. 
+  This blog is for my researchs and studyings in AI & Bioinformatics fields. 
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: https://twitter.com/MabastNiga
