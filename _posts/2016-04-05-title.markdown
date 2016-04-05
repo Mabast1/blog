@@ -3,6 +3,7 @@ layout: post
 title:  Biology in the Computer Age
 date:   2016-04-05 10:27:16
 description: Gibas Developing Bioinformatics Chapter 1 
+Published By: Mabast M. Ahmad 
 ---
 
 #### Biology in the Computer Age 
