@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Eye of the Fly (Bioinformatics)
+title:  Biology in the Computer Age
 date:   2016-04-05 10:27:16
 description: Gibas Developing Bioinformatics Chapter 1 
 ---
@@ -13,23 +13,20 @@ biology is defined as the study of living things. In the course of that study, b
 The field of bioinformatics relies heavily on work by experts in statistical methods and pattern recognition. Researchers come to bioinformatics from many fields, including mathematics, computer science, and linguistics.   
 bioinformatics makes it possible to do exciting things such as compare DNA sequences and generate results that are potentially significant. "Potentially significant" is perhaps the most important phrase.
 
-#### Hipster list
-<ul>
-	<li>brunch</li>
-	<li>fixie</li>
-	<li>raybans</li>
-	<li>messenger bag</li>
-</ul>
+#### The Eye of the Fly 
+Fruit flies (Drosophila melanogaster ) are a popular model system for the study of development of animals from embryo to adult. Fruit flies have a gene called eyeless, which results in fruit flies with no eyes. It's obvious that the eyeless gene plays a role in eye development.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan. 
+Researchers have identified a human gene responsible for a condition called aniridia. In humans who are missing this gene (or in whom the gene has mutated just enough for its protein product to stop functioning properly), the eyes develop without irises.
 
-<hr>
-<br/>
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar. 
 
-<blockquote>
-	We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another. 
-	—Anais Nin
-</blockquote>
+If the gene for aniridia is inserted into an eyeless drosophila, it causes the production of normal drosophila eyes. It's an interesting coincidence. Could there be some similarity in how eyeless and aniridia function, even though flies and humans are vastly different organisms? Possibly. To gain insight into how eyeless and aniridia work together, we can compare their sequences. Always bear in mind, however, that genes have complex effects on one another. Careful experimentation is required to get a more definitive answer.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+As little as 15 years ago, looking for similarities between eyeless and aniridia DNA sequences would have been like looking for a needle in a haystack.
+But these days, a biologist can find dozens of sequence matches in seconds using sequence-alignment programs such as BLAST and FASTA. 
+
+The Figure below shows a standard form for submitting data to NCBI for a BLAST search:
+
+<div class="img_row">
+	<img class="col two" src="/img/13.png">
+</div>
+ 
