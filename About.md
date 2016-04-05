@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="https://raw.githubusercontent.com/Mabast1/blog/gh-pages/img/prof_pic.jpg" height="200">
+<img class="col one right" src="https://raw.githubusercontent.com/Mabast1/blog/gh-pages/img/prof_pic.jpg" height="150">
 
 <br/>
 I'm a young, determined hard and smart working person. I believe in task based roles and complete ownership of work, an independent, dedicated, efficient person. 
