@@ -11,7 +11,7 @@ Published By [Mabast M. Ahmad](https://www.linkedin.com/in/mabast)
 #### Biology in the Computer Age 
 Biology is defined as the study of living things. In the course of that study, biologists collect and interpret data. Now, at the beginning of the 21st century, we use sophisticated laboratory technology that allows us to collect data faster than we can interpret it.
 
-*Bioinformatics* is the science of using information to understand biology,Unfortunately, with all the hype about mapping the human genome, bioinformatics has achieved buzzword status; the term is being used in a number of ways, depending on who is using it. Strictly speaking, bioinformatics is a subset of the larger field of computational biology , the application of quantitative analytical techniques in modeling biological systems.
+*Bioinformatics* is the science of using information to understand biology Unfortunately with all the hype about mapping the human genome, bioinformatics has achieved buzzword status; the term is being used in a number of ways, depending on who is using it. Strictly speaking, bioinformatics is a subset of the larger field of computational biology, the application of quantitative analytical techniques in modeling biological systems.
 
 The field of bioinformatics relies heavily on work by experts in statistical methods and pattern recognition. Researchers come to bioinformatics from many fields, including mathematics, computer science, and linguistics.   
 bioinformatics makes it possible to do exciting things such as compare DNA sequences and generate results that are potentially significant. "Potentially significant" is perhaps the most important phrase.
