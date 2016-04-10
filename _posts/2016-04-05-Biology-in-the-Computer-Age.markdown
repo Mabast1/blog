@@ -36,7 +36,7 @@ Much of what we currently think of as part of bioinformatics—sequence comparis
 Bioinformatics is first and foremost a component of the biological sciences. The main goal of bioinformatics isn't developing the most elegant algorithms or the most arcane analyses; the goal is finding out how living things work. Like the molecular biology methods that greatly expanded what biologists were capable of studying, bioinformatics is a tool and not an end in itself. Bioinformaticians are the tool-builders, and it's critical that they understand biological problems as well as computational solutions in order to produce useful tools.
 
 
-*source: Gibas Developing Bioinformatics book 2001 Chapter 1.*
+*source: Developing Bioinformatics Computer Skills book 2001 Chapter 1.*
 
 View the post on [My Linkedin](https://www.linkedin.com/pulse/biology-computer-age-mabast-ahmad?trk=prof-post)
  
