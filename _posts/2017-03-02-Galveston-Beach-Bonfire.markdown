@@ -27,6 +27,5 @@ I like to sit down on the beach and just listen to the wave. The sound the ocean
 <img src="http://worldswimsuit.com/images/uploads/website_images/bonfire.jpg"/ width="600px" height="600px">
 <img src="https://s-media-cache-ak0.pinimg.com/originals/59/ca/85/59ca85a638bc026a8436fc691c9a6f46.jpg"/ 
 width="600px" height="600px">
-<img src="https://il9.picdn.net/shutterstock/videos/10422215/thumb/1.jpg"/ width="600px" height="600px">
 
 
